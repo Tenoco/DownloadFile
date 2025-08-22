@@ -135,7 +135,7 @@ class GitHubManager:
     """Manages GitHub repository integration for project storage using requests module"""
     
     def __init__(self):
-        self.access_token = "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"
+        self.access_token = "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"
         self.repo_url = "https://github.com/Tenoco/EchoNetHosting"
         self.repo_name = "Tenoco/EchoNetHosting"
         self.api_base_url = "https://api.github.com"
